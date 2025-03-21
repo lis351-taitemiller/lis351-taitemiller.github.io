@@ -1,0 +1,54 @@
+
+*{
+	font-family: Arial, Verdana, sans-serif;
+	text-align: center;
+	background-color: black;
+
+}
+body {
+	width: 960px;
+	margin: 10 auto;
+}
+nav {
+	display: block;
+	background:#D10073;
+	padding: 10xp;
+	margin: 10xp;
+	font-size: 20px;
+}
+li {
+	display: inline;
+	padding: 5xp;
+}
+section {
+	overflow: auto;
+	height: 100%;
+	
+}
+
+main {
+	background-color: #D10073;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
+article {
+	background-color: #D10073;
+	padding: 10px;
+	margin: 10px;
+	width: 400px;
+	float: left;
+}
+
+
+
+
+}
+footer {
+	background-color: #D10073;
+	padding: 10px;
+	margin: 10px;
+}
+
